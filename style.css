@@ -57,10 +57,16 @@ article.media-post > footer ul {
   margin-bottom: 0;
 }
 
+.heart {
+  font-size: 2em;
+  color: black;
+}
+
+
 .activated-heart {
   color: red;
 }
 
 .hidden {
-  visibility: hidden;
+ display: none;
 }
